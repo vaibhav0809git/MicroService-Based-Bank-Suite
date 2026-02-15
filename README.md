@@ -52,9 +52,10 @@ Bank-Suite/
 ▶️ How to Run
 1. Clone Repo
 git clone https://github.com/vaibhav0809git/Bank-Suite.git
+
 cd Bank-Suite
 
-2. Run Backend Services
+3. Run Backend Services
 
 Run each microservice:
 mvn spring-boot:run
