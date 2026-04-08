@@ -80,11 +80,7 @@ Microservices Build Files
 Executable JAR (if provided)
 
 
-### Google Drive Download (Large Files)
-
-If some files are too large for GitHub, download from Drive:
-
-🔗 Drive Link:
+### All Files are Available in Release
 
 
 
